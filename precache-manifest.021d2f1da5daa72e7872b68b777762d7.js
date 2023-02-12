@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "579170e110b8ac3dbe30",
-    "url": "/css/app.6b5092d1.css"
+    "revision": "bc4a40971b0d74e34768",
+    "url": "/css/app.9e0e2b68.css"
   },
   {
     "revision": "6016ebb9fd0d0c7b7171",
@@ -124,12 +124,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/sevara.d68e46d4.png"
   },
   {
-    "revision": "1ac96162cb1459af88efaf9636529d02",
+    "revision": "806c59a0e59838b94143ed3dfacedbe8",
     "url": "/index.html"
   },
   {
-    "revision": "579170e110b8ac3dbe30",
-    "url": "/js/app.9c2f36cd.js"
+    "revision": "bc4a40971b0d74e34768",
+    "url": "/js/app.72913324.js"
   },
   {
     "revision": "a7a08039a02962034d84",
@@ -184,12 +184,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-2d0e4b0a.0ad50e30.js"
   },
   {
-    "revision": "696f7c329cc15646e02d",
-    "url": "/js/chunk-2d0e8e3e.feb0843a.js"
+    "revision": "4cfd63d073dcfde9fc29",
+    "url": "/js/chunk-2d0e8e3e.171b76a9.js"
   },
   {
-    "revision": "587d40f8c9d0dd11585f",
-    "url": "/js/chunk-2d0e9723.226160fa.js"
+    "revision": "c48465de7d81519a4708",
+    "url": "/js/chunk-2d0e9723.34a3eeb1.js"
   },
   {
     "revision": "bb3e1b77d695e101f5d3",
@@ -216,8 +216,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-2d214428.8d331fe7.js"
   },
   {
-    "revision": "2617b70e6d578fb6702a",
-    "url": "/js/chunk-2d21f899.2ea5c9f3.js"
+    "revision": "48cc098dd774391335a1",
+    "url": "/js/chunk-2d21f899.686c01f5.js"
   },
   {
     "revision": "58899811d5f163bb9511",
@@ -248,8 +248,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-307e0738.29fd4248.js"
   },
   {
-    "revision": "9747a8f1d1e785a3a31f",
-    "url": "/js/chunk-307e22f0.131ae73d.js"
+    "revision": "ac6fb6ed13a2cbbb2591",
+    "url": "/js/chunk-307e22f0.74d6ad41.js"
   },
   {
     "revision": "0663eeda05e6f141d97b",
